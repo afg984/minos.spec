@@ -1,8 +1,8 @@
-%global _minos_commit 5c3ffebcb978323d268852aaba7e4fcbeb3afbb1
+%global _minos_commit f1a31721ed7f43f38240e801e2d2b6b0d56fc342
 %global _vpath_srcdir minos-%{_minos_commit}
 
 Name:           minos
-Version:        0.0.11
+Version:        0.0.16
 Release:        1%{?dist}
 Summary:        Minos daemon and NSS module
 
