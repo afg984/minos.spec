@@ -7,7 +7,7 @@ Release:        1%{?dist}
 Summary:        Minos daemon and NSS module
 
 License:        BSD
-URL:            https://github.com/afg984/minos
+URL:            https://github.com/afq984/minos
 Source:         %{url}/archive/%{_minos_commit}.zip
 
 BuildRequires: gcc                                                                                                                                            
